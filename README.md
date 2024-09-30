@@ -1,6 +1,6 @@
 # Optical-Generative-Models
 
-## This is the official implementation of "Optical Generative models"
+## Shiqi Chen, Yuhang Li, Hanlong Chen, Aydogan Ozcan*
 
 🚩 **New Features/Updates**
 
